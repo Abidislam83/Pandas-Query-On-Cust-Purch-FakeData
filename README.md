@@ -1,8 +1,7 @@
 Inustraction
 ---------------------
-1. Start jupyter notebook and open follwing notebook file
-  a. Cust_Purch_Data_Exercise.ipynb
-2. Load Cust_Purch_FakeData.csv scv file and then run the notebook file
+1. Start jupyter notebook and open notebook file Cust_Purch_Data_Exercise.ipynb
+3. Load Cust_Purch_FakeData.csv scv file and then run the notebook file
 
 Cust_Purch_FakeData
 ---------------------
